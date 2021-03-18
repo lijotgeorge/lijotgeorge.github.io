@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Lijo T. George</title>
-    <link>lijotgeorge.github.io/categories/</link>
+    <link>https://lijotgeorge.github.io/categories/</link>
     <description>Recent content in Categories on Lijo T. George</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="lijotgeorge.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://lijotgeorge.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
