@@ -8,21 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Mar 2021 11:53:48 +0530</lastBuildDate><atom:link href="https://lijotgeorge.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Something 2</title>
-      <link>https://lijotgeorge.github.io/posts/blog-post-2/</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <title>The Start</title>
+      <link>https://lijotgeorge.github.io/posts/20210826182422-the-start/</link>
+      <pubDate>Thu, 26 Aug 2021 18:24:24 +0530</pubDate>
       
-      <guid>https://lijotgeorge.github.io/posts/blog-post-2/</guid>
-      <description>Something something. new entry</description>
+      <guid>https://lijotgeorge.github.io/posts/20210826182422-the-start/</guid>
+      <description>Main sources of learning</description>
     </item>
     
     <item>
-      <title>Something 1</title>
-      <link>https://lijotgeorge.github.io/posts/blog-post-1/</link>
-      <pubDate>Wed, 17 Mar 2021 10:21:13 +0530</pubDate>
+      <title>My First Post</title>
+      <link>https://lijotgeorge.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 26 Aug 2021 12:03:53 +0530</pubDate>
       
-      <guid>https://lijotgeorge.github.io/posts/blog-post-1/</guid>
-      <description>Something something. new entry</description>
+      <guid>https://lijotgeorge.github.io/posts/my-first-post/</guid>
+      <description>Why I&amp;rsquo;m starting a blog</description>
     </item>
     
   </channel>
