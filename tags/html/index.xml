@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on Lijo T. George</title>
+    <link>https://lijotgeorge.github.io/tags/html/</link>
+    <description>Recent content in html on Lijo T. George</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Aug 2021 18:24:24 +0530</lastBuildDate><atom:link href="https://lijotgeorge.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Start</title>
+      <link>https://lijotgeorge.github.io/posts/20210826182422-the-start/</link>
+      <pubDate>Thu, 26 Aug 2021 18:24:24 +0530</pubDate>
+      
+      <guid>https://lijotgeorge.github.io/posts/20210826182422-the-start/</guid>
+      <description>Main sources of learning</description>
+    </item>
+    
+  </channel>
+</rss>

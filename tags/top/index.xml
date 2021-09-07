@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Lijo T. George</title>
-    <link>https://lijotgeorge.github.io/posts/</link>
-    <description>Recent content in Posts on Lijo T. George</description>
+    <title>TOP on Lijo T. George</title>
+    <link>https://lijotgeorge.github.io/tags/top/</link>
+    <description>Recent content in TOP on Lijo T. George</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Mar 2021 11:53:48 +0530</lastBuildDate><atom:link href="https://lijotgeorge.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Sep 2021 15:26:35 +0530</lastBuildDate><atom:link href="https://lijotgeorge.github.io/tags/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Etch-a-Sketch</title>
       <link>https://lijotgeorge.github.io/posts/20210907152633-etch-a-sketch.md/</link>
@@ -23,15 +23,6 @@
       
       <guid>https://lijotgeorge.github.io/posts/20210826182422-the-start/</guid>
       <description>Main sources of learning</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://lijotgeorge.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 26 Aug 2021 12:03:53 +0530</pubDate>
-      
-      <guid>https://lijotgeorge.github.io/posts/my-first-post/</guid>
-      <description>Why I&amp;rsquo;m starting a blog</description>
     </item>
     
   </channel>

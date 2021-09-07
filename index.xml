@@ -6,7 +6,16 @@
     <description>Recent content on Lijo T. George</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 18:24:24 +0530</lastBuildDate><atom:link href="https://lijotgeorge.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Sep 2021 15:26:35 +0530</lastBuildDate><atom:link href="https://lijotgeorge.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Etch-a-Sketch</title>
+      <link>https://lijotgeorge.github.io/posts/20210907152633-etch-a-sketch.md/</link>
+      <pubDate>Tue, 07 Sep 2021 15:26:35 +0530</pubDate>
+      
+      <guid>https://lijotgeorge.github.io/posts/20210907152633-etch-a-sketch.md/</guid>
+      <description>First JavaScript Program</description>
+    </item>
+    
     <item>
       <title>The Start</title>
       <link>https://lijotgeorge.github.io/posts/20210826182422-the-start/</link>

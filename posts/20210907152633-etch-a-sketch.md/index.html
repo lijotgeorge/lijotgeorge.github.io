@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> Etch-a-Sketch &middot; Lijo T. George </title>
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.88.1" />
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://lijotgeorge.github.io/css/nix.css">
+
+
+
+<link rel="shortcut icon" href="/favicon.ico">
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Inconsolata|Open+Sans|Concert+One" rel="stylesheet">
+
+
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+
+
+    </head>
+
+    <body>
+        <header>
+<nav class="navbar navbar-default navbar-fixed-top navbar-inverse font-header">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+      <a class="navbar-brand" id="green-terminal" href='https://lijotgeorge.github.io/'>
+        lijo@george ~ $
+      </a>
+		</div>
+
+		
+		<div class="collapse navbar-collapse" id="navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href='https://lijotgeorge.github.io/'>/home/lijo</a>
+        </li>
+        
+				
+				
+				<li class="dropdown">
+                    
+            		<a href="https://lijotgeorge.github.io/about">~/about</a>
+            		
+        		</li>
+        		
+				
+				<li class="dropdown">
+                    
+            		<a href="https://lijotgeorge.github.io/posts">~/posts</a>
+            		
+        		</li>
+        		
+				
+				<li class="dropdown">
+                    
+            		<a href="https://lijotgeorge.github.io/tags">~/tags</a>
+            		
+        		</li>
+        		
+
+			</ul>
+		</div>
+	</div>
+</nav>
+</header>
+
+        <div class="flex-wrapper">
+            <div class="container wrapper">
+                <h1><a href="https://lijotgeorge.github.io/posts/20210907152633-etch-a-sketch.md/">Etch-a-Sketch</a></h1>
+                <span class="post-date">2021-09-07 </span>
+                <div class="post-content">
+                    <p>Hooo boy! That took a while!</p>
+<p>Last I left off was when I had made my first webpage as Google homepage replica. After that was JavaScript. As someone with experience in programming in Python as well as C to some extent I felt confident I would be able to handle JS pretty well too. And I did&hellip; at least in the beginning.</p>
+<p>The initial lessons that TOP set up teaches you the basics of programming in JS. This means variable declarations, arrays, conditional statements and functions. It was a little confusing learning the syntax for a new language again but turns out JS has a lot of similarity (at least in syntax) with C so falling back into rhythm didn&rsquo;t take long. The biggest stumbling block was getting used to the console. In C and Python I&rsquo;m used to typing everything in the terminal and immediately figuring out what I did and where I&rsquo;m going wrong. It wasn&rsquo;t so straightforward in JS. The interplay between what I want the webpage to do and what JS is doing is a bit harder to figure out when you need to switch windows every damn time!</p>
+<p>And that&rsquo;s even before you learn just how much you can control the webpage simply with JavaScript!</p>
+<p>Welcome to the <strong>Document Object Model</strong> (DOM).</p>
+<p>The DOM, I&rsquo;ve come to learn, is the backbone behind JS&rsquo;s ability to manipulate webpages. Essentially, DOM is a node-like structure of any html webpage as defined in the the html document. This then allows JS to manipulate the entire html document and add, remove or modify the various elements in the webpage and along with CSS make stuff look/happen any which way you want.</p>
+<p>This leads nicely to the first project in the JavaScript course: <strong>Etch-a-Sketch</strong>.</p>
+<p>Before I talk about the challenge of creating this app let me just plug in my finished product. <a href="https://lijotgeorge.github.io/etch-a-sketch/">Demo of the project</a>.</p>
+<h2 id="the-process">The Process</h2>
+<p>As I mentioned before this challenge had me make extensive use of the DOM and while the challenge page did mention that you would need to search for a lot of new stuff there weren&rsquo;t any specific suggestions as to where to look. The JS pages on <a href="https://www/w3schools.com">W3Schools</a> while good are hardly comprehensive or very explanatory.</p>
+<p>After searching through google and youtube I came across a <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V">playlist</a> by The Net Ninja that I found quite nice. This still wasn&rsquo;t enough though and I still had to google for some specific issues as and when they arose. But that&rsquo;s the whole point of this I suppose.</p>
+<p>(So it turns out I&rsquo;m an idiot! I completely skipped over the section of the course that dealt with the DOM and how to use JS to handle it 🤦)</p>
+<p>I&rsquo;m not going to go into the nitty-gritty of the application but I do want to write down some interesting thoughts about the whole process. One of the initial lessons in the course was about <em>&lsquo;&lsquo;problem solving&rsquo;'</em> and <em>&lsquo;&lsquo;thinking like a programmer&rsquo;'</em>. A workflow of sorts was suggested that programmers should follow when attempting any problem. This included creating a <a href="https://en.wikipedia.org/wiki/Pseudocode"><strong>pseudo-code</strong></a> of the problem and using the <strong>Divide and Conquer</strong> method when breaking down the possible solutions to the problem.</p>
+<p>I did not do any of that for this problem!</p>
+<p>At least not in the way it was suggested. Usually whenever I tackle a programming challenge I try to break down the problem into priorities &ndash; which subproblem is absolutely essential to this problem and which ones can be tackled later on. That&rsquo;s what I did with this one as well.</p>
+<p>Going in, the absolute lowest level solution was to have a grid divided into a fixed number of subgrids that change to black when I mouseover it. Once that was done the next step would be to figure out a way to delete any colored grid. Then figure out a way to randomize colors on every mouse over etc. etc. This would go on until the final solution is exactly as described in the problem. I also took inspiration from a few of the examples showcased in the project page.</p>
+<p>But it turned out a whole lot messier than I had expected. With every rising complexity I had to rewrite some or most of the code to functionally include the feature into my solution. I wonder now if this is actually an inescapable feature of the process of creating web pages or could this have been avoided had I actually sat down and written what I wanted my <em>final</em> code to do right at the very beginning?</p>
+<p>I don&rsquo;t know the answer to that just yet but I&rsquo;m going to try doing it this way for the next problem.</p>
+<p>👍</p>
+
+                </div>
+                
+                <div class="post-comments">
+                    
+                </div>
+                
+            </div>
+            <footer class="footer text-center">
+<p>Copyright &copy; 2021 Lijo Thomas George -
+<span class="credit">
+	Powered by
+	<a target="_blank" href="https://gohugo.io">Hugo</a>
+	and
+	<a target="_blank" href="https://github.com/LordMathis/hugo-theme-nix/">Nix</a> theme.
+</span>
+</p>
+</footer>
+
+        </div>
+    </body>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>javascript on Lijo T. George</title>
+    <link>https://lijotgeorge.github.io/tags/javascript/</link>
+    <description>Recent content in javascript on Lijo T. George</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Sep 2021 15:26:35 +0530</lastBuildDate><atom:link href="https://lijotgeorge.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Etch-a-Sketch</title>
+      <link>https://lijotgeorge.github.io/posts/20210907152633-etch-a-sketch.md/</link>
+      <pubDate>Tue, 07 Sep 2021 15:26:35 +0530</pubDate>
+      
+      <guid>https://lijotgeorge.github.io/posts/20210907152633-etch-a-sketch.md/</guid>
+      <description>First JavaScript Program</description>
+    </item>
+    
+  </channel>
+</rss>
