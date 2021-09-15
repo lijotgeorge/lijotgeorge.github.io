@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lijotgeorge.github.io/posts/20210907152633-etch-a-sketch.md/</loc>
-    <lastmod>2021-09-07T15:26:35+05:30</lastmod>
-  </url><url>
     <loc>https://lijotgeorge.github.io/tags/javascript/</loc>
-    <lastmod>2021-09-07T15:26:35+05:30</lastmod>
+    <lastmod>2021-09-14T18:02:15+05:30</lastmod>
   </url><url>
     <loc>https://lijotgeorge.github.io/</loc>
-    <lastmod>2021-09-07T15:26:35+05:30</lastmod>
+    <lastmod>2021-09-14T18:02:15+05:30</lastmod>
+  </url><url>
+    <loc>https://lijotgeorge.github.io/posts/20210914180213-rock-paper-scissors/</loc>
+    <lastmod>2021-09-14T18:02:15+05:30</lastmod>
   </url><url>
     <loc>https://lijotgeorge.github.io/tags/</loc>
-    <lastmod>2021-09-07T15:26:35+05:30</lastmod>
+    <lastmod>2021-09-14T18:02:15+05:30</lastmod>
   </url><url>
     <loc>https://lijotgeorge.github.io/tags/top/</loc>
-    <lastmod>2021-09-07T15:26:35+05:30</lastmod>
+    <lastmod>2021-09-14T18:02:15+05:30</lastmod>
   </url><url>
     <loc>https://lijotgeorge.github.io/tags/web-development/</loc>
+    <lastmod>2021-09-14T18:02:15+05:30</lastmod>
+  </url><url>
+    <loc>https://lijotgeorge.github.io/posts/20210907152633-etch-a-sketch.md/</loc>
     <lastmod>2021-09-07T15:26:35+05:30</lastmod>
   </url><url>
     <loc>https://lijotgeorge.github.io/tags/html/</loc>
